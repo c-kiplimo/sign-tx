@@ -17,6 +17,7 @@ async function main() {
     'latest'
   );
 
+  
   let transaction = {
     to: ,//choose any address!,
     value: Utils.parseEther('0.001'), // 0.001 worth of ETH being sent
